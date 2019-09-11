@@ -16,10 +16,11 @@
     button {
       width: 100%;
       font-size: 1.3rem;
-      padding: 1rem;
+      padding: 1rem 1.2rem;
       line-height: 1.5rem;
     }
 }
+
 @media (max-width: 350px) {
   .button-wrapper {
     button {
@@ -33,9 +34,10 @@
 @media (min-width: 460px) {
   .button-wrapper {
     button {
-      padding: 2rem 0rem;
+      padding: 2rem 2rem;
       line-height: 1.8rem;
       font-size: 1.5rem;
+      height: 109px;
     }
   }
 }
