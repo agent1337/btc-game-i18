@@ -1,4 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
+dist
+/dist
+
 ### Vim template
 # Swap
 [._]*.s[a-v][a-z]
